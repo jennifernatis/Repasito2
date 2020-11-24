@@ -1,4 +1,4 @@
-package estudio.booleano;
+package estudio.ejercitando;
 
 public class TablaDeVerdad2 {
 
